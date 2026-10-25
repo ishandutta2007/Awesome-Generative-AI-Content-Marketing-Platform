@@ -1,6 +1,6 @@
 # Awesome-Generative-AI-Content-Marketing-Platform
 
-# Top Generative AI Content Marketing Platform Ecosystem
+## Top Generative AI Content Marketing Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Brand-Voice Enforcement, Multi-Agent Content Pipelines & Self-Hosted Marketing Automation*  
