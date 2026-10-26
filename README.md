@@ -62,87 +62,87 @@ The following table provides a comprehensive overview of commercial generative A
 
 Open-source, self-hosted, and agentic content marketing tools empower engineering and growth teams to eliminate vendor lock-in, safeguard corporate intellectual property, and customize content pipelines.
 
-The repositories below are **sorted in descending order by GitHub star count**:
+The repositories below are **sorted in descending order by GitHub Stars_Count**:
 
-### 1. 📬 [Postiz](https://github.com/gitroomhq/postiz-app) [![GitHub stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)
+### 1. 📬 [Postiz](https://github.com/gitroomhq/postiz-app) [![GitHub_Stars](https://img.shields.io/github/stars/gitroomhq/postiz-app?style=social&color=white)](https://github.com/gitroomhq/postiz-app/stargazers)
 - **Primary Focus**: All-in-one open-source AI social media scheduling, copywriting, and marketing management platform.
 - **Key Features**: Direct self-hostable alternative to Buffer and Hootsuite. Equipped with an AI content assistant for drafting, repurposing, and scheduling viral posts across X/Twitter, LinkedIn, Instagram, TikTok, Facebook, and Threads. Supports team collaboration, webhooks, and analytics.
 - **Tech Stack**: TypeScript, Next.js, Node.js, Prisma, PostgreSQL, Docker.
 - **License**: AGPL-3.0
 
-### 2. 🔬 [GPT Researcher](https://github.com/assafelovic/gpt-researcher) [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)
+### 2. 🔬 [GPT Researcher](https://github.com/assafelovic/gpt-researcher) [![GitHub_Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)
 - **Primary Focus**: Autonomous research agent for deep web investigation, competitive intelligence, and exhaustive content briefs.
 - **Key Features**: Gathers, filters, and aggregates over 20+ web sources per task to produce objective, cited research reports. Serves as the critical upstream research engine for long-form marketing content, white papers, and thought-leadership articles without hallucinations.
 - **Tech Stack**: Python, LangChain, FastAPI, Docker.
 - **License**: MIT
 
-### 3. 📦 [UnoPim](https://github.com/unopim/unopim) [![GitHub stars](https://img.shields.io/github/stars/unopim/unopim?style=social&color=white)](https://github.com/unopim/unopim/stargazers)
+### 3. 📦 [UnoPim](https://github.com/unopim/unopim) [![GitHub_Stars](https://img.shields.io/github/stars/unopim/unopim?style=social&color=white)](https://github.com/unopim/unopim/stargazers)
 - **Primary Focus**: Open-source Product Information Management (PIM) & Digital Asset Management (DAM) with native AI content generation.
 - **Key Features**: Features built-in AI Agent Chat and Magic AI to generate localized product descriptions, attribute tags, and marketing copy across 10+ AI providers. Seamlessly synchronizes product assets with multi-channel ecommerce catalogs.
 - **Tech Stack**: PHP, Laravel, Vue.js, Tailwind CSS, MySQL.
 - **License**: MIT
 
-### 4. 📢 [Claude Ads](https://github.com/AgriciDaniel/claude-ads) [![GitHub stars](https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=social&color=white)](https://github.com/AgriciDaniel/claude-ads/stargazers)
+### 4. 📢 [Claude Ads](https://github.com/AgriciDaniel/claude-ads) [![GitHub_Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=social&color=white)](https://github.com/AgriciDaniel/claude-ads/stargazers)
 - **Primary Focus**: Claude-first paid media marketing operations skill suite for Claude Code.
 - **Key Features**: Orchestrates campaign audits and ad copy creation across 12 advertising platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X). Enforces source-grounded audits, evidence coverage, and versioned JSON reporting.
 - **Tech Stack**: Node.js, Markdown/Prompt Contracts, Claude Code CLI.
 - **License**: MIT
 
-### 5. 💼 [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) [![GitHub stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social&color=white)](https://github.com/sergebulaev/linkedin-skills/stargazers)
+### 5. 💼 [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) [![GitHub_Stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social&color=white)](https://github.com/sergebulaev/linkedin-skills/stargazers)
 - **Primary Focus**: Command-line content generation and personal branding skills for LinkedIn.
 - **Key Features**: Collection of 12 Claude Code and Codex skills crafted to write authentic, human-sounding LinkedIn posts, formulate high-visibility comments, analyze feed performance, and maintain an automated publishing cadence straight from the developer terminal.
 - **Tech Stack**: Shell, Markdown, Claude Code / Codex Skills.
 - **License**: MIT
 
-### 6. 🛠️ [AI Marketing Suite](https://github.com/zubair-trabzada/ai-marketing-claude) [![GitHub stars](https://img.shields.io/github/stars/zubair-trabzada/ai-marketing-claude?style=social&color=white)](https://github.com/zubair-trabzada/ai-marketing-claude/stargazers)
+### 6. 🛠️ [AI Marketing Suite](https://github.com/zubair-trabzada/ai-marketing-claude) [![GitHub_Stars](https://img.shields.io/github/stars/zubair-trabzada/ai-marketing-claude?style=social&color=white)](https://github.com/zubair-trabzada/ai-marketing-claude/stargazers)
 - **Primary Focus**: Full-funnel AI marketing skill suite running via parallel subagents in Claude Code.
 - **Key Features**: Delivers 15 modular marketing skills: automated website audits, multi-channel copy generation, email drip sequence formulation, campaign asset generation, content editorial calendars, and client-ready executive PDF report generation.
 - **Tech Stack**: JavaScript, Node.js, Claude Code CLI.
 - **License**: MIT
 
-### 7. ✍️ [Claude Blog](https://github.com/AgriciDaniel/claude-blog) [![GitHub stars](https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=social&color=white)](https://github.com/AgriciDaniel/claude-blog/stargazers)
+### 7. ✍️ [Claude Blog](https://github.com/AgriciDaniel/claude-blog) [![GitHub_Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=social&color=white)](https://github.com/AgriciDaniel/claude-blog/stargazers)
 - **Primary Focus**: Automated blog content generation suite optimized for Google SEO and AI search citations (AEO/GEO).
 - **Key Features**: Powered by 30 sub-skills, 5 specialized agents, and a strict 5-gate Blog Delivery Contract. Guarantees deterministic quality checks, structured data schema compliance, and citation grounding for answer engines like Perplexity, ChatGPT, and Google Gemini.
 - **Tech Stack**: Shell, Python, Claude Code Skills.
 - **License**: MIT
 
-### 8. 🧠 [ALwrity](https://github.com/AJaySi/ALwrity) [![GitHub stars](https://img.shields.io/github/stars/AJaySi/ALwrity?style=social&color=white)](https://github.com/AJaySi/ALwrity/stargazers)
+### 8. 🧠 [ALwrity](https://github.com/AJaySi/ALwrity) [![GitHub_Stars](https://img.shields.io/github/stars/AJaySi/ALwrity?style=social&color=white)](https://github.com/AJaySi/ALwrity/stargazers)
 - **Primary Focus**: Multimodal AI content generation and digital marketing OS.
 - **Key Features**: Comprehensive open-source toolkit providing AI blog writing, YouTube video-to-article conversion, social media post generators (X, Instagram, Facebook), meta SEO analysis, content planning calendars, and anti-hallucination web research via Model Context Protocol (MCP) servers with local document RAG.
 - **Tech Stack**: Python, Streamlit, LangChain, MCP.
 - **License**: MIT
 
-### 9. 🤖 [SocialFlow](https://github.com/inbharatai/SocialFlow) [![GitHub stars](https://img.shields.io/github/stars/inbharatai/SocialFlow?style=social&color=white)](https://github.com/inbharatai/SocialFlow/stargazers)
+### 9. 🤖 [SocialFlow](https://github.com/inbharatai/SocialFlow) [![GitHub_Stars](https://img.shields.io/github/stars/inbharatai/SocialFlow?style=social&color=white)](https://github.com/inbharatai/SocialFlow/stargazers)
 - **Primary Focus**: Autonomous social media AI CMO running locally via Ollama.
 - **Key Features**: 6-agent autonomous pipeline: **Scout** (trend scanning via RSS/Hacker News), **Planner** (content strategy), **Creator** (platform-tailored copy and images), **Reviewer** (brand voice guardrails), **Publisher** (multi-platform automated posting across 12 channels), and **Analyst** (performance feedback loops). Completely private with zero API token costs.
 - **Tech Stack**: Python, Ollama, Playwright, Docker.
 - **License**: MIT
 
-### 10. 🎯 [OpenAdKit](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool) [![GitHub stars](https://img.shields.io/github/stars/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool?style=social&color=white)](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool/stargazers)
+### 10. 🎯 [OpenAdKit](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool) [![GitHub_Stars](https://img.shields.io/github/stars/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool?style=social&color=white)](https://github.com/IamRamgarhia/OpenAdKit-Open-Source-AI-Marketing-Tool/stargazers)
 - **Primary Focus**: Zero-cost, privacy-first open-source ad and copy generator.
 - **Key Features**: 100% browser-only client with no backend database or tracking. Incorporates 18 distinct AI generators across Google, Meta, TikTok, LinkedIn, YouTube, and X. Bring-Your-Own-Key (BYOK) architecture supporting 9 LLM providers (Groq, Cerebras, Gemini, OpenRouter, Together AI, Claude, OpenAI, DeepSeek, Mistral). Features visual ad mockups and predictive scoring.
 - **Tech Stack**: JavaScript, HTML5/CSS3, Client-side LLM APIs.
 - **License**: MIT
 
-### 11. 🎨 [Artbucket](https://github.com/pwnera/artbucket) [![GitHub stars](https://img.shields.io/github/stars/pwnera/artbucket?style=social&color=white)](https://github.com/pwnera/artbucket/stargazers)
+### 11. 🎨 [Artbucket](https://github.com/pwnera/artbucket) [![GitHub_Stars](https://img.shields.io/github/stars/pwnera/artbucket?style=social&color=white)](https://github.com/pwnera/artbucket/stargazers)
 - **Primary Focus**: Self-hosted Digital Asset Manager (DAM) and brand manager with Model Context Protocol (MCP) support.
 - **Key Features**: Stores brand guidelines as code (YAML/design tokens), synchronizes changes via Git pull requests, and hosts a dedicated MCP server allowing AI agents to query approved logos, color palettes, fonts, and asset licensing rights programmatically.
 - **Tech Stack**: TypeScript, Next.js, PostgreSQL, Docker, S3-compatible storage.
 - **License**: AGPL-3.0
 
-### 12. ⚡ [Helio](https://github.com/achref-soua/helio) [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
+### 12. ⚡ [Helio](https://github.com/achref-soua/helio) [![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
 - **Primary Focus**: AI-native, self-hosted marketing automation platform with durable journey execution.
 - **Key Features**: Built-in visual customer journey builder (React Flow) backed by Temporal durable execution, ensuring customer journeys survive server restarts. Includes a Segment/RudderStack-compatible HTTP tracking API, AI copilot for drafting on-brand email sequences, and multi-tenant row-level security (RLS) in PostgreSQL.
 - **Tech Stack**: TypeScript, Temporal, Go, PostgreSQL, React Flow.
 - **License**: AGPL-3.0
 
-### 13. 👔 [Open Agentic CMO](https://github.com/matiascodela/open-agentic-cmo) [![GitHub stars](https://img.shields.io/github/stars/matiascodela/open-agentic-cmo?style=social&color=white)](https://github.com/matiascodela/open-agentic-cmo/stargazers)
+### 13. 👔 [Open Agentic CMO](https://github.com/matiascodela/open-agentic-cmo) [![GitHub_Stars](https://img.shields.io/github/stars/matiascodela/open-agentic-cmo?style=social&color=white)](https://github.com/matiascodela/open-agentic-cmo/stargazers)
 - **Primary Focus**: Deterministic multi-agent content marketing system running on Paperclip.
 - **Key Features**: Coordinates four specialized agents with strict validation gates: **Porky** (orchestration & signal tracking), **Babe** (research & strategy), **Hamm** (content writing), and **Pumba** (distribution & Telegram/Notion delivery). No draft progresses without passing artifact contracts.
 - **Tech Stack**: Python, Paperclip, Notion API, Telegram Bot API.
 - **License**: MIT
 
-### 14. 📝 [ContentOS Agent Lite](https://github.com/humanswith-ai/contentos-agent-lite) [![GitHub stars](https://img.shields.io/github/stars/humanswith-ai/contentos-agent-lite?style=social&color=white)](https://github.com/humanswith-ai/contentos-agent-lite/stargazers)
+### 14. 📝 [ContentOS Agent Lite](https://github.com/humanswith-ai/contentos-agent-lite) [![GitHub_Stars](https://img.shields.io/github/stars/humanswith-ai/contentos-agent-lite?style=social&color=white)](https://github.com/humanswith-ai/contentos-agent-lite/stargazers)
 - **Primary Focus**: Process-driven AI content agent for founders executing inside coding agents.
 - **Key Features**: Operates inside Claude Code, Cursor, and Codex with zero external SaaS dependencies. Enforces an 8-gate pipeline (context → sources → brief → draft → checks → uplift → publish) with deterministic Python helpers that evaluate readability, cizability for AI search engines, and slop detection across English, Russian, and Arabic.
 - **Tech Stack**: Python, Markdown, Cursor/Claude Code Rules.
@@ -188,7 +188,7 @@ Contributions to keep this ecosystem comprehensive, accurate, and up-to-date are
 3. 📝 **Add or update an entry**:
    - Ensure factual accuracy regarding pricing, limits, and tech stacks.
    - For SaaS products: provide specific starting prices, detailed free tier limits, and valuation/revenue metrics.
-   - For open-source tools: link the repository and add the standard star badge linking to the `/stargazers` page.
+   - For open-source tools: link the repository and add the standard Stars_Badge linking to the `/stargazers` page.
 4. 🚀 **Commit your changes**: `git commit -m "Add New-AI-Tool to directory"`
 5. 📬 **Submit a Pull Request** with a concise description of the tool and why it fits this directory.
 
